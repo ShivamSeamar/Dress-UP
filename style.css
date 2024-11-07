@@ -1,5 +1,5 @@
-body{
-  background-color:black;
+body {
+  background-color: rgba(138, 131, 131, 0.644) !important;
 }
 #container {
   display: flex;
